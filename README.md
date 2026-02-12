@@ -10,7 +10,7 @@ The model converts natural language text into realistic images using a diffusion
 - To experiment with negative prompts  
 - To explore different image aspect ratios  
 
-## 🧠 MODEL USED
+## 🧠 Model Used
 **Stable Diffusion v1.5**
 
 Stable Diffusion works by:
@@ -23,7 +23,7 @@ Stable Diffusion works by:
 "A chai in a traditional cup on a wet surface and having a rose flower bouquet placed left side of the cup on the same surface, HD",
 "The nature on rainy day, HD"
 
-## 🔬 EXPERIMENTS PERFORMED
+## 🔬 Experiments Performed
 
 ### 1️⃣ Basic Image Generation
 Generated image directly from the given prompt.
